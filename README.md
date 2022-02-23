@@ -16,7 +16,7 @@
 - it's complete responsive 
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/calculator/blob/main/image.png?raw=true">
 
 ## Demo
 
